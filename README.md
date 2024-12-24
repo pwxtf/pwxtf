@@ -1,3 +1,8 @@
+![17350652101719039035872029318326](https://github.com/user-attachments/assets/6fada505-6254-4cb2-827e-8299e94ef000)
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AF0A00&width=435&lines=%F0%9D%96%82%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%88%F0%9D%96%94%F0%9D%96%92%F0%9D%96%8A+%F0%9D%95%BF%F0%9D%96%94+%F0%9D%95%B8%F0%9D%96%9E+%F0%9D%95%BB%F0%9D%96%97%F0%9D%96%94%F0%9D%96%8B%F0%9D%96%8E%F0%9D%96%91%F0%9D%96%8A.)](https://git.io/typing-svg)
 
 
