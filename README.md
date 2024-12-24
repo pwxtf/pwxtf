@@ -1,10 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AF0A00&width=435&lines=%F0%9D%96%82%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%88%F0%9D%96%94%F0%9D%96%92%F0%9D%96%8A+%F0%9D%95%BF%F0%9D%96%94+%F0%9D%95%B8%F0%9D%96%9E+%F0%9D%95%BB%F0%9D%96%97%F0%9D%96%94%F0%9D%96%8B%F0%9D%96%8E%F0%9D%96%91%F0%9D%96%8A.)](https://git.io/typing-svg)
+
+
+
+
 ![17350653541387938879486971596939](https://github.com/user-attachments/assets/4a3aef41-fb11-47b5-94ef-30132e8990e2)
 
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AF0A00&width=435&lines=%F0%9D%96%82%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%88%F0%9D%96%94%F0%9D%96%92%F0%9D%96%8A+%F0%9D%95%BF%F0%9D%96%94+%F0%9D%95%B8%F0%9D%96%9E+%F0%9D%95%BB%F0%9D%96%97%F0%9D%96%94%F0%9D%96%8B%F0%9D%96%8E%F0%9D%96%91%F0%9D%96%8A.)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%F0%9D%95%BE%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%95+%F0%9D%95%AD%F0%9D%96%9E+%F0%9D%95%BE%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%95..)](https://git.io/typing-svg)
