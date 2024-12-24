@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%8C%F0%9D%90%B2+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AF0A00&width=435&lines=%F0%9D%96%82%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%88%F0%9D%96%94%F0%9D%96%92%F0%9D%96%8A+%F0%9D%95%BF%F0%9D%96%94+%F0%9D%95%B8%F0%9D%96%9E+%F0%9D%95%BB%F0%9D%96%97%F0%9D%96%94%F0%9D%96%8B%F0%9D%96%8E%F0%9D%96%91%F0%9D%96%8A.)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B321F7&width=435&lines=%F0%9D%95%BE%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%95+%F0%9D%95%AD%F0%9D%96%9E+%F0%9D%95%BE%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%95.)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
