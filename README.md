@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%8C%F0%9D%90%B2+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E.+)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 🔭 Currently, I am working on projects in Roblox.<br><br>🌱 I am focused on learning scripting and using exploiting tools within Roblox to gain a deeper understanding of game mechanics and enhance my coding abilities.<br><br>🤝 I’m looking for opportunities to collaborate on open-source projects, especially those involving bug fixes and optimization.<br><br>📝 I frequently write articles on github.com.<br><br>💬 Don’t hesitate to reach out if you have any questions about Roblox scripting or exploit techniques.<br><br>📫 You can contact me at @0212010.<br><br>📄 Discover more about my experience [I specialize in automation, script development, and analyzing game mechanics in Roblox](I specialize in automation, script development, and analyzing game mechanics in Roblox).<br><br>⚡ Fun fact: I spend more time talking to code than to people
 
