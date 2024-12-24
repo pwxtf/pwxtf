@@ -20,20 +20,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Always+learning%2C+always+building.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Not+a+developer+yet%2C)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=but+crafting+my+path+with+curiosity+)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=and+determination.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Every+project+is+a+step+closer)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=to+mastering+the+art+of+creation.)](https://git.io/typing-svg)
 
 
-## 🌐 Socials:
+## 𖤐 Socials 𖤐
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@muleleleell) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NiggaFuckers) 
 
-# 💻 Tech Stack:
+# 𖤐 Tech Stack 𖤐
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
+# 𖤐 GitHub Stats 𖤐
 ![](https://github-readme-stats.vercel.app/api?username=pwxtf&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pwxtf&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pwxtf&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 𖤐 GitHub Trophies 𖤐
 ![](https://github-profile-trophy.vercel.app/?username=pwxtf&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 𖤐 Top Contributed Repo 𖤐
 ![](https://github-contributor-stats.vercel.app/api?username=pwxtf&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
