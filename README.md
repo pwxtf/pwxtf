@@ -1,7 +1,7 @@
 ![17351293634858461199364411652678](https://github.com/user-attachments/assets/9c1bffd3-ed82-4821-b6a5-562c64b2a357)
 
 
-<img src="https://cdn.discordapp.com/emojis/1293533157664096280.png" width="25"> <img src="https://cdn.discordapp.com/emojis/1293533157664096280.png" width="25"> <img src="https://cdn.discordapp.com/emojis/1293533157664096280.png" width="25"> <img src="https://cdn.discordapp.com/emojis/1293533157664096280.png" width="25">
+<img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
 
 
 
