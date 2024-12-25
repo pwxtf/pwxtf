@@ -14,21 +14,7 @@
 
 # <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Exploring+the+vast+world+of+code)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=One+line+at+a+time)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Driven+by+curiosity)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Fuelled+by+the+desire+to+grow)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Learning+through+challenges)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Focused+on+self-improvement)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Innovation+is+the+goal)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Mastery+is+the+journey.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%95%B4+%F0%9D%96%9C%F0%9D%96%86%F0%9D%96%91%F0%9D%96%90+%F0%9D%96%87%F0%9D%96%8A%F0%9D%96%99%F0%9D%96%9C%F0%9D%96%8A%F0%9D%96%8A%F0%9D%96%93+%F0%9D%96%88%F0%9D%96%94%F0%9D%96%89%F0%9D%96%8A+%F0%9D%96%86%F0%9D%96%93%F0%9D%96%89+%F0%9D%96%98%F0%9D%96%8D%F0%9D%96%86%F0%9D%96%89%F0%9D%96%94%F0%9D%96%9C%F0%9D%96%98;%F0%9D%96%9C%F0%9D%96%8D%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%8A+%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%8A+%F0%9D%96%9A%F0%9D%96%93%F0%9D%96%90%F0%9D%96%93%F0%9D%96%94%F0%9D%96%9C%F0%9D%96%93+%F0%9D%96%8C%F0%9D%96%9A%F0%9D%96%8E%F0%9D%96%89%F0%9D%96%8A%F0%9D%96%98+%F0%9D%96%92%F0%9D%96%8A)](https://git.io/typing-svg)
 
 
 ## <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> 𝕾𝖔𝖈𝖎𝖆𝖑𝖘 <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
