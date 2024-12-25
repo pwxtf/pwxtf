@@ -20,7 +20,21 @@
 
 # <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> About Me <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Always+learning%2C+always+building.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Not+a+developer+yet%2C)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=but+crafting+my+path+with+curiosity+)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=and+determination.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Every+project+is+a+step+closer)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=to+mastering+the+art+of+creation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Exploring+the+vast+world+of+code)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=One+line+at+a+time)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Driven+by+curiosity)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Fuelled+by+the+desire+to+grow)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Learning+through+challenges)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Focused+on+self-improvement)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Innovation+is+the+goal)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D01FF&width=435&lines=Mastery+is+the+journey.)](https://git.io/typing-svg)
 
 
 ## <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> Socials <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
