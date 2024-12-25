@@ -18,24 +18,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A200F7&width=435&lines=%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+0%25;%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+10%25;%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+20%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+30%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+40%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+50%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92+60%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92+70%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92+80%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92+90%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25)](https://git.io/typing-svg)
 
 
-# 𖤐 About Me 𖤐
+# <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> About Me <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Always+learning%2C+always+building.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Not+a+developer+yet%2C)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=but+crafting+my+path+with+curiosity+)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=and+determination.)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Every+project+is+a+step+closer)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=to+mastering+the+art+of+creation.)](https://git.io/typing-svg)
 
 
-## 𖤐 Socials 𖤐
+## <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> Socials <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
+
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@muleleleell) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NiggaFuckers) 
 
-# 𖤐 Tech Stack 𖤐
+# <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> Tech Stack <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
+
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 𖤐 GitHub Stats 𖤐
+# <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> GitHub Stats <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
+
 ![](https://github-readme-stats.vercel.app/api?username=pwxtf&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pwxtf&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pwxtf&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 𖤐 GitHub Trophies 𖤐
+## <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> GitHub Trophies <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
+
 ![](https://github-profile-trophy.vercel.app/?username=pwxtf&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 𖤐 Top Contributed Repo 𖤐
+### <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25"> Top Contributed Repo <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
+
 ![](https://github-contributor-stats.vercel.app/api?username=pwxtf&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
