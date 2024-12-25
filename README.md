@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%96%A4%90%F0%96%A4%90%F0%96%A4%90%F0%96%A4%90%F0%96%A4%90%F0%96%A4%90)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%90%96%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%84+%F0%9D%90%93%F0%9D%90%8E+%F0%9D%90%8C%F0%9D%90%98+%F0%9D%90%8F%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%84.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%90%96%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%84+%F0%9D%90%93%F0%9D%90%8E+%F0%9D%90%8C%F0%9D%90%98+%F0%9D%90%8F%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%84;%F0%9D%90%89%F0%9D%90%94%F0%9D%90%92%F0%9D%90%93+%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86;%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83+%F0%9D%90%84%F0%9D%90%97%F0%9D%90%8F%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86;%F0%9D%90%96%F0%9D%90%87%F0%9D%90%80%F0%9D%90%93'%F0%9D%90%92+%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%92%F0%9D%90%92%F0%9D%90%88%F0%9D%90%81%F0%9D%90%8B%F0%9D%90%84.+%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%8D+%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84+%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%8D%F0%9D%90%84%F0%9D%90%98.)](https://git.io/typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC00F7&width=435&lines=%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%EF%AE%A9%D9%A8%D9%80)](https://git.io/typing-svg)
 
