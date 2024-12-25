@@ -1,9 +1,9 @@
 ![17351293634858461199364411652678](https://github.com/user-attachments/assets/9c1bffd3-ed82-4821-b6a5-562c64b2a357)
 
 
+<img src="https://cdn.discordapp.com/emojis/1293533157664096280.png" width="25"> <img src="https://cdn.discordapp.com/emojis/1293533157664096280.png" width="25"> <img src="https://cdn.discordapp.com/emojis/1293533157664096280.png" width="25"> <img src="https://cdn.discordapp.com/emojis/1293533157664096280.png" width="25">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC00F7&width=435&lines=%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%EF%AE%A9%D9%A8%D9%80)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%95%B7%F0%9D%96%9A%F0%9D%96%86+%F0%9D%96%8E%F0%9D%96%93+%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%8A+%F0%9D%96%88%F0%9D%96%94%F0%9D%96%89%F0%9D%96%8A%2C+%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%95%F0%9D%96%97%F0%9D%96%94%F0%9D%96%9B%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8C+%F0%9D%96%9C%F0%9D%96%8E%F0%9D%96%99%F0%9D%96%8D+%F0%9D%96%8A%F0%9D%96%9B%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%9E+%F0%9D%96%91%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8A)](https://git.io/typing-svg)
 
