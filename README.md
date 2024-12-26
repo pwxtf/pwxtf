@@ -1,4 +1,6 @@
-![17351293634858461199364411652678](https://github.com/user-attachments/assets/9c1bffd3-ed82-4821-b6a5-562c64b2a357)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9c1bffd3-ed82-4821-b6a5-562c64b2a357" />
+</div>
 
 
 <div align="center">
