@@ -22,7 +22,11 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%95%B7%F0%9D%96%9A%F0%9D%96%86+%F0%9D%96%8E%F0%9D%96%93+%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%8A+%F0%9D%96%88%F0%9D%96%94%F0%9D%96%89%F0%9D%96%8A%2C+%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%95%F0%9D%96%97%F0%9D%96%94%F0%9D%96%9B%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8C+%F0%9D%96%9C%F0%9D%96%8E%F0%9D%96%99%F0%9D%96%8D+%F0%9D%96%8A%F0%9D%96%9B%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%9E+%F0%9D%96%91%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8A)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%95%B7%F0%9D%96%9A%F0%9D%96%86+%F0%9D%96%8E%F0%9D%96%93+%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%8A+%F0%9D%96%88%F0%9D%96%94%F0%9D%96%89%F0%9D%96%8A%2C+%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%95%F0%9D%96%97%F0%9D%96%94%F0%9D%96%9B%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8C+%F0%9D%96%9C%F0%9D%96%8E%F0%9D%96%99%F0%9D%96%8D+%F0%9D%96%8A%F0%9D%96%9B%F0%9D%96%8A%F0%9D%96%97%F0%9D%96%9E+%F0%9D%96%91%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8A">
+  </a>
+</div>
 
 
 
