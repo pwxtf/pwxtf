@@ -83,6 +83,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+[![Spotify](https://novatorem-lemon-nine.vercel.app/api/spotify)](https://open.spotify.com/user/666)
+
 <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -91,4 +94,3 @@
     <img src="https://github.com/pwxtf/pwxtf/blob/main/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
   </picture>
 </div>
-
