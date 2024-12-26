@@ -70,10 +70,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pwxtf&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pwxtf&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## <img src="https://cdn.discordapp.com/emojis/1313777557153251361.gif" width="25"> 𝕲𝖎𝖙𝖍𝖚𝖇 𝕿𝖗𝖔𝖕𝖍𝖎𝖊𝖘 <img src="https://cdn.discordapp.com/emojis/1313777557153251361.gif" width="25">
-
-![](https://github-profile-trophy.vercel.app/?username=pwxtf&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### <img src="https://cdn.discordapp.com/emojis/1313777557153251361.gif" width="25"> 𝕿𝖔𝖕 𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖊𝖉 𝕽𝖊𝖕𝖔 <img src="https://cdn.discordapp.com/emojis/1313777557153251361.gif" width="25">
 
 ![](https://github-contributor-stats.vercel.app/api?username=pwxtf&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
