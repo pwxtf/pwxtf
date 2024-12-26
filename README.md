@@ -79,18 +79,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pwxtf&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pwxtf&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%95%B9%F0%9D%96%94%F0%9D%96%9C+%F0%9D%95%BB%F0%9D%96%91%F0%9D%96%86%F0%9D%96%9E%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8C+.." alt="Typing SVG"/>
+  </a>
+</div>
 
 
 [![Spotify](https://novatorem-lemon-nine.vercel.app/api/spotify)](https://open.spotify.com/user/666)
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/pwxtf/pwxtf/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/pwxtf/pwxtf/blob/main/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-  </picture>
-</div>
