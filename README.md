@@ -20,20 +20,6 @@
   <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
   <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
   <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
 </div>
 
 
@@ -47,20 +33,6 @@
 
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
-  <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
   <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
   <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
   <img src="https://cdn.discordapp.com/emojis/1316430221473484830.gif" width="25">
