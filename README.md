@@ -87,4 +87,8 @@
 </div>
 
 
-[![Spotify](https://novatorem-lemon-nine.vercel.app/api/spotify)](https://open.spotify.com/user/666)
+<div align="center">
+  <a href="https://open.spotify.com/user/666">
+    <img src="https://novatorem-lemon-nine.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</div>
