@@ -89,6 +89,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/666">
-    <img src="https://novatorem-lemon-nine.vercel.app/api/spotify" alt="Spotify">
+    <img src="https://novatorem-lemon-nine.vercel.app/api/spotify?border_color=F70000" alt="Spotify">
   </a>
 </div>
