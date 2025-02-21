@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9c1bffd3-ed82-4821-b6a5-562c64b2a357" width="100%" />
+  <img src="https://cdn.discordapp.com/attachments/1340211533417812080/1342550644673876000/GEBO.gif?ex=67ba0b39&is=67b8b9b9&hm=384de73b066f8323089b30db82a5123589dc3f62ef1f8fd6488c2fe2edbb2e62&" width="100%" />
 </div>
 
 
